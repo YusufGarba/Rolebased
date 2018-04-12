@@ -1,0 +1,12 @@
+c:\users\ipi-010\documents\visual studio 2017\Projects\Rolebased\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.deps.json
+c:\users\ipi-010\documents\visual studio 2017\Projects\Rolebased\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.runtimeconfig.json
+c:\users\ipi-010\documents\visual studio 2017\Projects\Rolebased\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.runtimeconfig.dev.json
+c:\users\ipi-010\documents\visual studio 2017\Projects\Rolebased\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.dll
+c:\users\ipi-010\documents\visual studio 2017\Projects\Rolebased\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.pdb
+c:\users\ipi-010\documents\visual studio 2017\Projects\Rolebased\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.csprojResolveAssemblyReference.cache
+c:\users\ipi-010\documents\visual studio 2017\Projects\Rolebased\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.csproj.CoreCompileInputs.cache
+c:\users\ipi-010\documents\visual studio 2017\Projects\Rolebased\WebApplication2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\users\ipi-010\documents\visual studio 2017\Projects\Rolebased\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.AssemblyInfoInputs.cache
+c:\users\ipi-010\documents\visual studio 2017\Projects\Rolebased\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.AssemblyInfo.cs
+c:\users\ipi-010\documents\visual studio 2017\Projects\Rolebased\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.dll
+c:\users\ipi-010\documents\visual studio 2017\Projects\Rolebased\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.pdb
